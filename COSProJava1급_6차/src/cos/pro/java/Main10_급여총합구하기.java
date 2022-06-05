@@ -66,4 +66,5 @@ class Main {
 
       return answer;//모든 직원들 급여의 총합을 return 
   }
+}
 
